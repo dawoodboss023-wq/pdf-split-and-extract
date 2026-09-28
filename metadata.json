@@ -1,0 +1,6 @@
+{
+  "name": "PDF Split & Extract",
+  "description": "Split combined PDFs into their original separate documents automatically with smart document boundary detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
